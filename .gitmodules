@@ -1,0 +1,6 @@
+[submodule "Music-Review-API"]
+	path = Music-Review-API
+	url = https://github.com/zachnorton14/Music-Review-API.git
+[submodule "Music-Review"]
+	path = Music-Review
+	url = https://github.com/zachnorton14/Music-Review.git
